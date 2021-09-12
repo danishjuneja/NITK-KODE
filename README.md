@@ -1,3 +1,3 @@
 # NITK-KODE
 
-NITK KODE is a group of developers from NITK Batch 2024.
+NITK KODE is a group of passionate developers from NITK Batch 2024.
